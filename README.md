@@ -1,0 +1,1 @@
+# test_horoscope_mail_ru
